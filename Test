@@ -1,0 +1,445 @@
+#EXTM3U
+
+#EXTINF:0 tvg-id="AnimalPlanet.uk" group-title="Infotainment",Animal Planet HD
+
+http://46.105.112.116/?watch=R-EX/HINDI_ANIMAL_PLANET_WORLD_HD-in&token=RED_&m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",Sony BBC Earth Hindi
+
+http://46.105.112.116/?watch=R-EX/ENGLISH_BBC_EARTH_HD-in&token=RED_&m3u8
+
+#EXTINF:0 tvg-id="NatGeoWild.in" group-title="Infotainment",NAT GEO WILD HD
+
+http://46.105.112.116/?watch=R-EX/HINDI_NAT_GEO_WILD_HD-in&token=RED_&m3u8
+
+#EXTINF:0 tvg-id="DiscoveryScience.in" group-title="Infotainment",Discovery Science
+
+https://idvd.multitvsolution.com/idvo/discoversciencehindi_540p/index.m3u8
+
+#EXTINF:0 tvg-id="DiscoveryHD.in" group-title="Infotainment",Discovery HD
+
+http://46.105.112.116/?watch=R-EX/FHD_DISCOVERY_-in&token=RED_&m3u8
+
+#EXTINF:0 tvg-id="NGCHD.uk" group-title="Infotainment",NAT GEO HD
+
+http://hin2.error-404.website/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Infotainment",Sky Nature
+
+http://46.105.112.116/?watch=EX/UKFHD_Sky_Nature-uk&token=RED&m3u8
+
+#EXTINF:0 tvg-id="LoveNature.eu" group-title="Infotainment",Love Nature
+
+http://bamus-eng-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="World News",BBC News Asia
+
+https://d2cuyje6aq0ny8.cloudfront.net/BBC_WORLD.m3u8
+
+#EXTINF:0 tvg-id="TRTWorld.uk" group-title="World News",TRT World
+
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:0 tvg-id="SkyNews.uk" group-title="World News",Sky News
+
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="World News",Al Jazeera
+
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:0 tvg-id="BBCNews.nws" group-title="UK",BBC News
+
+https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
+
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="UK",BBC One
+
+https://cdnuk001.broadcastcdn.net/KUK-BBC1/tracks-v2a1/mono.m3u8
+
+#EXTINF:0 tvg-id="BBC2.uk" group-title="UK",BBC Two
+
+https://cdnuk001.broadcastcdn.net/KUK-BBC2/tracks-v2a1/mono.m3u8
+
+#EXTINF:0 tvg-id="BBC4.uk" group-title="UK",BBC FOUR
+
+https://vs-hls-pushb-uk-live.akamaized.net/content/x=3/v=pv10/b=1604032/t=3840/i=urn:bbc:pips:service:bbc_four_hd/main.m3u8
+
+#EXTINF:0 tvg-id="ITV1London.uk" group-title="UK",ITV 1
+
+https://cdnuk001.broadcastcdn.net/KUK-ITV/index.m3u8
+
+#EXTINF:0 tvg-id="ITV2.uk" group-title="UK",ITV 2
+
+https://cdnuk001.broadcastcdn.net/KUK-ITV2/index.m3u8
+
+#EXTINF:0 tvg-id="Channel4.uk" group-title="UK",Channel 4
+
+https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="Channel5.uk" group-title="UK",Channel 5
+
+https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="E4.uk" group-title="UK",E4
+
+https://cdnuk001.broadcastcdn.net/KUK-E4/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="UK",E4+1
+
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=sUVgEzc1xGUgQTR
+
+#EXTINF:0 tvg-id="SkyMoviesFamily.uk" group-title="Cinema",Sky Cinema Family
+
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==wSVBSeslWbhZEIZt0U
+
+#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Cinema",Sky Cinema Select
+
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_==wSVBCdjVGblNFIZt0U
+
+#EXTINF:0 tvg-id="StarMovies.in" group-title="Hollywood",Star Movies
+
+http://46.105.112.116/?watch=R-EX/FHD_STAR_MOVIES_-in&token=RED_&m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Hollywood",Hollywood Dubbed
+
+http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Hollywood",Sky Cinema Sci Fi
+
+http://M2153683141.wo2.co/o.php?6949003927915110_164589908716168541711293286940_3487614956_=sUVgkmRgk2YTBycllmdv1EI5t2U
+
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="Hollywood",Sony Pix HD
+
+http://46.105.112.116/?watch=R-EX/FHD_SONY_PIX_-in&token=RED_&m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Hollywood",And Flix HD
+
+http://46.105.112.116/?watch=R-EX/HINDI_AND_FLIX_HD-in&token=RED_&m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Hollywood",And Privé HD
+
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:0 tvg-id="GEONews.uk" group-title="NEWS",Geo News
+
+https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/playlist_dvr.m3u8
+
+#EXTINF:0 tvg-id="ARYNews.uk" group-title="NEWS",ARY News
+
+http://42.201.228.226:8678/ARYNEWS_EBRAVO_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="HUMNews.uk" group-title="NEWS",Hum News
+
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/73146f04d996d6c.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="NEWS",Dawn
+
+https://streams.simpaisa.com:8443/pitvlive4/dawnnews.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="B4UMusic.in" group-title="Music",B4U Music
+
+https://d2n59piq1dbucf.cloudfront.net/B4U_MUSIC.m3u8
+
+#EXTINF:0 tvg-id="Bindass.in" group-title="Music",Bindass
+
+http://hin2.error-404.website/BindassPlay-Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="Mastiii.in" group-title="Music",Mastiii
+
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",Dil Se
+
+http://hin2.error-404.website/HUNGAMA_DILSE/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",Wow Music
+
+https://ilove.livebox.co.in/wowinhls/live.m3u8
+
+#EXTINF:0 tvg-id="MTV.in" group-title="Music",MTV
+
+http://hin2.error-404.website/MTV_PLUS_US/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="Zoom.in" group-title="Music",Zoom
+
+https://d4r942xafddk2.cloudfront.net/ZOOM.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",MTV Beats HD
+
+http://hin2.error-404.website/MTV_BEATS_US/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",8XM
+
+http://hin2.error-404.website/8XM_HIN/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="MusicIndia.in" group-title="Music",Music India
+
+http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_=EWak5WSgMWazVXT
+
+#EXTINF:0 tvg-id="9XM.in" group-title="Music",9XM
+
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:0 tvg-id="9XJalwa.in" group-title="Music",9X Jalwa
+
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:0 tvg-id="MTV.uk" group-title="Music",MTV 2
+
+https://d3t60pmzggqymi.cloudfront.net/MTV.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",B4u Music UK
+
+http://hin2.error-404.website/B4U_Music_UK-Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",Kadak
+
+http://hin2.error-404.website/HUNGUMA_KADAK/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Music",BSi Music
+
+http://livecdn.live247stream.com/sbimusic/tv/sbimusic/stream/chunks.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Show Box
+
+https://d2lybujvbxswjw.cloudfront.net/SHOW_MUSIC.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Rasi TV
+
+http://singamcloud.in:1935/rasinetwork/rasihindi/chunklist.m3u8?
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",South Indian
+
+http://hin2.error-404.website/hindi/ppv_dubbed/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Bollywood",Zee Cinema HD
+
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Bollywood",Zee Cinema
+
+https://d1duaw1rs4anpp.cloudfront.net/102.m3u8
+
+#EXTINF:0 tvg-id="ZeeCinema.uk" group-title="Bollywood",Zee Cinema UK
+
+https://y5w8j4a9.ssl.hwcdn.net/cinemauk/tracks-v1a1/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Zee Cinema ME
+
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/tracks-v1a1/playlist.m3u8
+
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Bollywood",Zee Cinema USA
+
+https://y5w8j4a9.ssl.hwcdn.net/cinemausa/tracks-v1a1/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",And Xplor HD
+
+http://hin2.error-404.website/&explore_hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",And Pictures HD
+
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:0 tvg-id="Pictures.in" group-title="Bollywood",And Pictures SD
+
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/playlist.m3u8
+
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Bollywood",Sony Max HD
+
+http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_==AROlEIYFUTgQVRTBSWO90U
+
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Bollywood",Sony Max
+
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/eabb0fee1d27bbf.m3u8
+
+#EXTINF:0 tvg-id="SonyMax.uk" group-title="Bollywood",Set Max UK
+
+http://hin2.error-404.website/SON_MAX_UK/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Set Max APAC
+
+http://hin2.error-404.website/SONYMAX/USA/HIN/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Colors Cineplex HD
+
+http://hin2.error-404.website/Rishtey_Cineplex_IND/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Colors Cineplex UK
+
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/f25724119174e8f.m3u8,
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Bolly One
+
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/9999dcc8327a5e0.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Colors Cineplex ME
+
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/India/e01f3185fb0169c.m3u8
+
+#EXTINF:0 tvg-id="RishteyCineplex.uk" group-title="Bollywood",Rishtey Cineplex
+
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
+
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Bollywood",Star Gold HD
+
+https://ott.bingebd.com/live/ngrp:star_gold_all/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Utsav Gold
+
+http://208.115.215.42/Utsav_Gold_HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Star Gold US
+
+http://A2153683141.wo2.co/o.php?6949003927915110_164589908716176421581293286900_1693494871_kx2bHBichR3U
+
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="Bollywood",Star Gold Select HD
+
+http://hin2.error-404.website/star_gold_Select-Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Star Gold Select US
+
+http://hin2.error-404.website/stargold_select_us/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Star Gold 2
+
+http://hin2.error-404.website/JS_MoviesOK_Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",B4U+
+
+http://hin2.error-404.website/B4U+-Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="SonyMax2.in" group-title="Bollywood",Sony Max 2
+
+http://208.115.215.42/SonY_Max_HD_02/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Sony Wah
+
+https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="Bollywood",Zee Action
+
+https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",B4U Kadak
+
+https://d207nlzuawwh55.cloudfront.net/B4U_KADAK.m3u8
+
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Bollywood",Zee Bollywood
+
+https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/playlist.m3u8
+
+#EXTINF:0 tvg-id="ZeeClassic.in" group-title="Bollywood",Zee Classic
+
+http://hin2.error-404.website/ZeeClassic/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="UTV.uk" group-title="Bollywood",UTV HD
+
+http://46.105.112.116/?watch=R-EX/FHD_UTV_-in&token=RED&m3u8
+
+#EXTINF:0 tvg-id="UTVMovies.in" group-title="Bollywood",UTV Movies
+
+http://84.17.41.7/UTVMOVIES-Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="UTVAction.in" group-title="Bollywood",UTV Action
+
+http://hin2.error-404.website/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",B4U Movies UK
+
+http://hin2.error-404.website/B4U_Movies_UK-Hin/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="B4UMovies.in" group-title="Bollywood",B4U Movies
+
+https://ott.bingebd.com/live/ngrp:b4u_movies_all/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Pitaara
+
+http://cdn.smartstream.video/smartstream-us/pitaratv/pitaratv/chunklist.m3u8
+
+#EXTINF:0 tvg-id="SilverScreen.us" group-title="Bollywood",Silver Screen
+
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Pakistan/5e188d8152fdf0b.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Filmazia Entertainment
+
+http://42.201.228.226:8678/FILMAZIA_NOC_TV/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Filmazia Global
+
+https://streams.simpaisa.com:8443/pitvlive4/filmworld.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Bollywood",Raavi
+
+http://185.71.64.167/live/694012161735110/694012161735110/84006.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Drama",HUM TV HD
+
+http://42.201.228.226:8678/HUMTV_EBRAVO_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="HUM-EUROPE.uk" group-title="Drama",Hum Europe
+
+http://46.105.112.116/?watch=NL/humeurope-uk&token=RED&e=m3u8
+
+#EXTINF:0 tvg-id="ARYDigital.uk" group-title="Drama",ARY Digital
+
+http://42.201.228.226:8678/ARYDIGITAL_NOC_TV/mono.m3u8
+
+#EXTINF:0 tvg-id="GEOTV.uk" group-title="Drama",Geo TV
+
+https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Drama",Urdu 1
+
+http://42.201.228.226:8678/URDU1_EBRAVO_TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Drama",PTV Home
+
+http://46.105.112.116/?watch=EX/ptvhome-pa&token=RED&e=m3u8
+
+#EXTINF:0 tvg-id="PTVGlobal.uk" group-title="Drama",PTV Global
+
+http://46.105.112.116/?watch=NL/ptvglobal-pk&token=RED&e=m3u8
+
+#EXTINF:0 tvg-id="TVOne.uk" group-title="Drama",TV One
+
+https://streams.simpaisa.com:8443/pitvlive4/tvone.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Drama",Express Entertainment
+
+https://streams.simpaisa.com:8443/pitvlive4/expressent.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ATV.de" group-title="Drama",ATV
+
+https://streams.simpaisa.com:8443/pitvlive4/atv.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Drama",Aaj Entertainment
+
+https://streams.simpaisa.com:8443/pitvlive4/aajent.smil/playlist.m3u8?
+
+#EXTINF:0 tvg-id="ext" group-title="Drama",A Plus
+
+https://streams.simpaisa.com:8443/pitvlive4/aplus.smil/playlist.m3u8?
+
+#EXTINF:0 tvg-id="ext" group-title="Drama",Hum Sitaray
+
+https://streams.simpaisa.com:8443/pitvlive4/sitaraynew.smil/playlist.m3u8?
+
+#EXTINF:0 tvg-id="ext" group-title="Drama",ARY Zindagi
+
+http://42.201.228.226:8678/ARYZINDAGI_NOC_TV/mono.m3u8
+
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="PSL",Sky Sports Cricket
+
+http://46.105.112.116/?watch=EX/Sky_Sports_Cricket_HD-uk&token=RED&e=m3u8
+
+#EXTINF:0 tvg-id="SonySixHD.in" group-title="PSL",Sony Six FHD
+
+http://46.105.112.116/?watch=R-EX/FHD_SONY_SIXX_-in&token=RED&e=m3u8
+
+#EXTINF:0 tvg-id="SonySixHD.in" group-title="PSL",Sony Six HD
+
+http://209.126.120.153/hls/b4umusic.m3u8
+
+#EXTINF:0 tvg-id="ComedyCentral.in" group-title="PSL",Comedy Central
+
+http://103.153.39.34:8000/play/a06d/index.m3u8
