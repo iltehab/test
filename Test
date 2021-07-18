@@ -19,7 +19,7 @@ BBCNews.nws,BBC News,https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 BBCOneHD.uk,BBC One,http://46.105.112.116/?watch=NL-N/BBC_One_HD-uk&token=RED_&m3u8
 BBC2.uk,BBC Two,http://46.105.112.116/?watch=NL-N/BBC_Two_HD-uk&token=RED_&m3u8
 BBC4.uk,BBC FOUR,http://46.105.112.116/?watch=NL-N/BBC_Four_HD-uk&token=RED_&m3u8
-ITV1London.uk,ITV 1,http://46.105.112.116/?watch=NL-N/ITV_Granada_HD-uk&token=RED_&m3u8
+ITV1London.uk,ITV 1,http://46.105.112.116/?watch=EX/ITV_HD-uk&token=RED_&m3u8
 ITV2.uk,ITV 2,http://46.105.112.116/?watch=EX/ITV2_HD-uk&token=RED_&m3u8 
 Channel4.uk,Channel 4,https://cdnuk001.broadcastcdn.net/KUK-CHANNEL4/tracks-v1a1/mono.m3u8
 Channel5.uk,Channel 5,https://cdnuk001.broadcastcdn.net/KUK-FIVE/tracks-v1a1/mono.m3u8
